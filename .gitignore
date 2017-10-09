@@ -1,0 +1,5 @@
+#This is the git ignore file list things here that are not to be commited.
+
+83699_mcmp_practice_files.zip
+*.zip
+*.m~
